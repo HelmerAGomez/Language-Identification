@@ -1,1 +1,2 @@
 # Language-Identification
+This prgram was created in Python and uses a couple files from outside resources one of the files needed to run this code is a corpus of languages to be used to identify text from. This program will parse the corpus and store it in a dictionary to be compared to the text to identify. The program will be comparing trigrams of the unknown text and all of the languages given to find the closest language and will print the language that is more likely to be.
